@@ -1,7 +1,7 @@
 from tkinter import *
 from quiz_brain import QuizBrain
 
-THEME_COLOR = "#375362"
+THEME_COLOR = "#2F4F4F"
 
 
 class QuizInterface:
